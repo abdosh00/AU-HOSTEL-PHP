@@ -2,7 +2,7 @@
 # AÜ HOSTEL 
 
 
-A Student's Hostel Management System for the graduation project course (COM-4062)  
+A Student's Hostel Management System for the graduation project course (COM-4062) in Ankara University
 
 Supervisor: Dr.Enver BAĞCI
 
@@ -29,3 +29,7 @@ Password: abdosh@123
 
 - [@Abdelrahman Ghannam - 18290640](http://comp.eng.ankara.edu.tr/)
 
+
+## Screenshots
+
+![App Screenshot](https://i.imgur.com/LiHqxKA.png)
